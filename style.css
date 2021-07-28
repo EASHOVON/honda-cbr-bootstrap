@@ -1,0 +1,15 @@
+/* Google Font Start */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* Google Font End */
+
+
+/* Common Css Section End */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* Common Css Section Start */
+/* Header Section Start */
+.header{
+    background-color: #264653;
+}
+/* Header Section End */
