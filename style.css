@@ -7,32 +7,18 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.color-custom-bg{
+    background-color: #E76F51;
+}
+
+.color-custom-text{
+    color: #E76F51;
+}
 /* Common Css Section Start */
 /* Header Section Start */
 .header{
     background-color: #264653;
 }
 
-.banner-btn{
-    background-color: #E76F51;
-}
 /* Header Section End */
-
-/* Feture Section Start */
-.bike-collection{
-    color: #E76F51;
-}
-/* Feture Section End */
-
-/* Happy Client Section Start */
-.feture-heading span{
-    color: #E76F51;
-}
-.client-rating{
-    color: #FF7C2A;
-}
-
-.client-name{
-    color: #00A6FF;
-}
-/* Happy Client Section End */
